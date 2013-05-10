@@ -11,13 +11,11 @@ This is an experiment to see what online collaboration might look like.
 3. Fork your own copy of the book.
 4. Send a pull request to merge your changes into another copy of the book.
 5. Once you commit a line to the book, you must get two others to fork your copy of the book.
+6. The content of your line must not exceed 140 characters.
 
 
 
 
 
 
-
-# Chapter 1
-
-A long time ago in a galaxy far, far away...
+[A long time ago in a galaxy far, far away...](https://twitter.com/mocheen/status/332962899825942529)
