@@ -6,11 +6,11 @@ This is an experiment to see what online collaboration might look like.
 
 ## Guidelines
 
-* Never commit more than one complete sentence.
-* Keep your sentence on one line.
-* Fork your own copy of the book.
-* Send a pull request to merge your changes into another copy of the book.
-
+1. Never commit more than one complete sentence.
+2. Keep your sentence on one line.
+3. Fork your own copy of the book.
+4. Send a pull request to merge your changes into another copy of the book.
+5. Once you commit a line to the book, you must get two others to fork your copy of the book.
 
 
 
