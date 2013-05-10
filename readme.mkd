@@ -1,3 +1,9 @@
 # the git book
 
+## preface
+
 This is an experiment to see what online collaboration might look like.
+
+#chapter 1
+
+Once upon a time there was a
