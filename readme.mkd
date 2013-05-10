@@ -1,9 +1,22 @@
-# the git book
+# The Git Book
 
-## preface
+## Preface
 
 This is an experiment to see what online collaboration might look like.
 
-#chapter 1
+## Guidelines
 
-Once upon a time there was a
+* Never commit more than one complete sentence.
+* Keep your sentence on one line.
+* Fork your own copy of the book.
+* Send a pull request to merge your changes into another copy of the book.
+
+
+
+
+
+
+
+
+# Chapter 1
+
